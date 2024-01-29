@@ -154,4 +154,6 @@ $(document).ready(function () {
 $('#input_result').on('blur', function () {
     $('.header_result').slideUp();
 });
+
+
 });
